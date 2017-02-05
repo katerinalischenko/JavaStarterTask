@@ -3,9 +3,17 @@ package com.gmail.katryskin;
 import java.util.Scanner;
 
 public class Main {
+	
+	//Выведите на экран прямоугольник из *. Причем высота и ширина
+	//прямоугольника вводятся с клавиатуры. Например ниже представлен
+	//прямоугольник с высотой 4 и шириной 5.
+	//*****
+	//*   *
+	//*   *
+	//*****
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner sc = new Scanner(System.in);
 		int a;
 		int b;
