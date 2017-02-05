@@ -3,9 +3,14 @@ package com.gmail.katryskin;
 import java.util.Scanner;
 
 public class Main {
+	
+	//Треугольник существует только тогда, когда сумма любых двух его
+	//сторон больше третьей. Дано: a, b, c – стороны предполагаемого
+	//треугольника. Напишите программу которая укажет существует такой
+	//треугольник или нет.
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner sc = new Scanner(System.in);
 		double a;
 		System.out.println("Input a");
