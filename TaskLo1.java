@@ -4,8 +4,11 @@ import java.util.Scanner;
 
 public class Main {
 
+	//Написать программу которая считает 4 числа c клавиатуры и выведет на
+	//экран самое большое из них.
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner sc= new Scanner(System.in);
 		int a;
 		int b;
